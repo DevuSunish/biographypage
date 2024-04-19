@@ -1,0 +1,48 @@
+.bigbox{
+    width: 50%;
+    height: 400px;
+    background-color:white;
+    border: 4px solid;
+    border-color: grey;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 20px;
+    margin-left: 400px;
+    margin-top: 150px;
+}
+
+#title{
+    color:hotpink;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 1px solid #375e97;
+}
+
+#email{
+   font-size: 1.5em;
+   color:black;
+}
+
+
+.job-title{
+    color: #999999;
+}
+
+h2 {
+    font-size: 1.5em;
+  }
+
+
+a:link, a:visited {
+    color: #fb6542;
+  }
+  
+
+
+
+
+.box{
+    background-color:lavender;
+    border: 8px solid;
+    border-color:#5a1aa3;
+}
